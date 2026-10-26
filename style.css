@@ -220,6 +220,13 @@ font-size: 25px !important;
 #six {
     color: white !important;
 }
+.viz-dev-notes h3 {
+  display: block !important;
+  color: #fff !important;
+  font-size: 36px !important;
+  line-height: 1.2 !important;
+  margin-bottom: 24px !important;
+}
 
 .viz-cover-sidecopy span {
 
