@@ -221,14 +221,6 @@ font-size: 16px !important;
     color: white !important;
 }
 
-.viz-after-cover h2 {
-  color: #fff !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-  display: block !important;
-}
-
-
 .viz-cover-sidecopy span {
 
   display: inline-block;
